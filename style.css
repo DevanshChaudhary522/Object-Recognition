@@ -1,0 +1,18 @@
+body {
+    background-color:lightcoral;
+    
+}
+#recog {
+    color:maroon ;
+
+}
+.objects {
+    color: aquamarine;
+    
+}
+
+#camera {
+    border: 2px groove cornsilk;
+    height: 350px;
+    width: 350px;
+}
